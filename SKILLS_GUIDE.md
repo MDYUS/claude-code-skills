@@ -1,4 +1,4 @@
-# Claude Code Skills Guide — 50 Open-Source Agent Skills
+# Claude Code Skills Guide — 51 Open-Source Agent Skills
 
 Choose the right skill for debugging, frontend development, technical SEO, security, testing, programming languages and AI engineering. See [Quick start](QUICKSTART.md) for installation and [Workflows](WORKFLOWS.md) for combinations.
 
@@ -7,7 +7,9 @@ Choose the right skill for debugging, frontend development, technical SEO, secur
 | Your task | Start with | Follow with |
 |---|---|---|
 | Bug or unexpected output | [/debugging](skills/debugging/SKILL.md) | /test, /code-review |
-| Generic AI website | [/anti-slop](skills/anti-slop/SKILL.md) | /responsive, /accessibility |
+| Build a complete website from text | [/website-forge](skills/website-forge/SKILL.md) | /playwright-expert, /ship |
+| Generic AI website | [/website-forge](skills/website-forge/SKILL.md) | Complete text-to-website development |
+| [/anti-slop](skills/anti-slop/SKILL.md) | /responsive, /accessibility |
 | Search indexing issue | [/seo](skills/seo/SKILL.md) | /content-check |
 | Authentication or data exposure | [/security](skills/security/SKILL.md) | /privacy, /test |
 | Slow code or database | [/performance](skills/performance/SKILL.md) | /postgres-expert |
