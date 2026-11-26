@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mdyus.github.io/claude-code-skills/sitemap.xml

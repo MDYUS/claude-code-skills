@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-skills",
+  "owner": {
+    "name": "MDYUS"
+  },
+  "plugins": [
+    {
+      "name": "evidence-skills",
+      "source": "./",
+      "description": "50 evidence-first Agent Skills"
+    }
+  ]
+}

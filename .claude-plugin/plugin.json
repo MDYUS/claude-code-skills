@@ -1,0 +1,9 @@
+{
+  "name": "evidence-skills",
+  "version": "1.0.0",
+  "description": "Evidence-first software engineering workflows",
+  "author": {
+    "name": "MDYUS"
+  },
+  "license": "MIT"
+}
