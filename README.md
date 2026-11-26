@@ -2,7 +2,7 @@
 
 # Claude Code Skills
 
-50 original, MIT-licensed Agent Skills for software development, debugging, security, UI/UX, SEO, languages, frameworks and AI engineering.
+51 original, MIT-licensed Agent Skills for software development, debugging, security, UI/UX, SEO, languages, frameworks and AI engineering.
 
 **Build with evidence, not unsupported completion claims.**
 
@@ -17,6 +17,10 @@ python3 scripts/install.py --project /path/to/project
 ```
 
 Select individual skills with `--skills debugging anti-slop ship`. Preview with `--dry-run`. The installer copies entire skill directories, including reference files, without replacing existing skills.
+
+## Featured skill: Website Forge
+
+[/website-forge](skills/website-forge/SKILL.md) turns text briefs into complete websites and web applications with distinctive design, working features, technical SEO and browser verification. [Installation and examples](skills/website-forge/README.md).
 
 ## Skill catalog
 
@@ -36,6 +40,7 @@ Select individual skills with `--skills debugging anti-slop ship`. Preview with 
 
 | Skill | Purpose |
 |---|---|
+| [/website-forge](skills/website-forge/SKILL.md) | Complete text-to-website development and anti-slop design |
 | [/anti-slop](skills/anti-slop/SKILL.md) | UI design improvement |
 | [/responsive](skills/responsive/SKILL.md) | Responsive design |
 | [/accessibility](skills/accessibility/SKILL.md) | Accessible interfaces |
